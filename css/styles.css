@@ -600,7 +600,6 @@ progress {
 }
 
 .img-center {
-  place-items: center;
   display: block;
   width: 50%;
   height: auto;
